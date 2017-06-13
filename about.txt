@@ -1,0 +1,19 @@
+
+About This Site:
+
+Ini merupakan langkah awal dalam babak baru sebagai web developer bersama Hacktiv8.
+
+Perjalanan, sekaligus Tantangan untuk mengembangkan diri dan memperluas manfaat bagi orang banyak.
+
+Used Tags & Syntaxes:
+
+h1
+h2
+font
+
+About Me:
+
+Founder Ecomedia Indonesia, sebagai Digital Marketing Strategist dengan pengalaman menangani korporasi dari berbagai bidang industri.
+
+Antusias dalam pengembangan diri dan UKM, bertumbuh sebagai sebagai SocialPreneur Coach, dan mulai melangkah sebagai Web-Apps Developer.
+
